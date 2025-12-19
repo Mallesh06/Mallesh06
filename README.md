@@ -13,7 +13,6 @@
 
 - 🔭 Currently working on AI-powered Chatbots and Cloud Projects
 - 🌱 Learning **Python**, **Machine Learning**, and **DevOps**
-- 🥇 Certified in [OCI Generative AI (Oracle)]()
 - 💬 Ask me about **AI**, **Cloud**, or **Open Source**
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mallesh-peddagolla06)
 - ⚡ Fun fact: I love automating everyday tasks!
