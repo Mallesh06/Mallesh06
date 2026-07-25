@@ -1,51 +1,134 @@
-<!-- Mallesh06 - Profile README -->
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Hi+There!+I'm+Mallesh+%F0%9F%91%8B;AI+Engineer+%7C+Generative+AI+Developer;Building+AI+Applications+with+Python;Always+Learning+Something+New..." />
 
-<h2 align="center">Hey 👋, I'm Mallesh Peddagolla!</h2>
+```text
+---=--::--=-=*+-=**++*#%#+-=+=+*%###*##*%@
+--+===--=*%#%@%=#%##%@@@%*+*+*%%#*+*#*++*+
+-=%#-:-=+%@%%%@%@@%*#%#*+=---=##*+++**+===
+--+#=+#%%%###*#%#**=====++====*+====---===
+#+--+*##%%%%*=-*++==+===**====++===--=---=
+%+=*#*%#+**+==-++=-=+##*+=============----
+=-+###*+=====--------+*=--=+*=-========---
+-=+***++++==--==-=-------=*@@#*++==##====+
+=+**+===+++=--++-===*%%#*-+#%%*+=+**+===+=
+==++======++=-=+===*@@%***++*++*=+*+=--===
+=====---==++=-====++#*=++*+====+==========
+=-------====-=+***+====*+++======---==+===
+--=========--=+*+::......::--========--===
+-=========+=-::..............::-=++==+===+
+-=======++=::..........::::::..:-==+#*==+*
+-===---==-:.....:....:::.:.:::...-*#%*++=+
+-===-----....:::::.:::::::::::::::=#+*#*+=
+---===----.:--=++====-::.:::::::::-+*#*+*+
+==---==+*#+=--=+**+=-==+++=----..:+++++==+
+-----=#%%%@*-:---++=-:+*+***+=+=-=+***==++
+#+-:--*@@@@+-====+**++******++**++*****+*+
+@@*-=+#%##*++++=+#*****####*++*+*%**%@@%#*
+##*+++*#*++===---==+*+=+***+=+**#%%@@%#*+*
++=-=========--:-+*##*==+*++==+++*%@%#**++*
++===+=-===+=--==++++****+=--=***##*++++*+#
+@%#+-=++==+=-:-=+++***+=-:-=+***+++==+==+#
+###****+====+=::------::-=+**+++=-======+*
++++*+=+====*=-----:--=++********=====+==++
++=-=-==+++#%=:-======+*****++=#@*-========
+---==*###%%@%--===++++*****+=+@@@#**+---==
++*#%%@@%%%%%%#+===++++***++*##*%@@@@@%#*++
+@@@%%%%%%#%#**#*+++*****+++@@%%#%@@@@@@@@@
+```
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-🎓 Computer Science Engineering Student <br/>
-💡 Passionate about AI, Cloud, and Automation <br/>
-📚 Lifelong Learner | Builder | Collaborator
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mallesh06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Mallesh06&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallesh06&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-### 🌟 About Me
+# 🚀 About Me
 
-- 🔭 Currently working on AI-powered Chatbots and Cloud Projects
-- 🌱 Learning **Python**, **Machine Learning**, and **DevOps**
-- 💬 Ask me about **AI**, **Cloud**, or **Open Source**
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mallesh-peddagolla06)
-- ⚡ Fun fact: I love automating everyday tasks!
-
----
-
-### 🚀 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
-![Cloud](https://img.shields.io/badge/-Cloud%20Computing-4285F4?logo=googlecloud&logoColor=white)
-![AI](https://img.shields.io/badge/-Artificial%20Intelligence-FF4088?logo=python&logoColor=white)
+- 🎓 Final Year B.Tech CSE Student
+- 🤖 Aspiring AI Engineer
+- 🧠 Learning Generative AI, LLMs, LangChain & AI Agents
+- 📊 Interested in Data Analytics
+- 💻 Building AI-powered applications using Python
+- 🌱 Currently improving DSA and System Design
+- 🚀 Goal: Become an AI Engineer at a top product company
 
 ---
 
-### 🔥 Projects
-
-- [Atlas-AiChatbot](https://github.com/Mallesh06/Atlas-AiChatbot) – JavaScript-powered AI chatbot
-- [ShopNow](https://github.com/Mallesh06/ShopNow) – Web UI for smart shopping
-- [AI-CLOUD](https://github.com/Mallesh06/AI-CLOUD) – Python tools for cloud automation
-- [Voice Lecture to Notes](https://github.com/Mallesh06/AICTE-AI-CLOUD_Voice-lecture-to-notes) – Converts spoken lectures into notes with AI
-
----
-
-### 📈 GitHub Stats
+# 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mallesh06&show_icons=true&theme=radical" alt="Mallesh06 stats" />
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql,git,github,vscode,docker,linux,postman,flask,fastapi" />
+
 </p>
 
 ---
 
-<h3 align="center">Let's connect and build something awesome! 🚀</h3>
+# 📈 Contribution Graph
 
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mallesh06&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mallesh06&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 👀 Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Mallesh06&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Mallesh06">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://mallesh06.github.io/Mallesham_Peddagolla_Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐️ From <b>Mallesh06</b>
+
+</p>
